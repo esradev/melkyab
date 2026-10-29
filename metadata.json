@@ -1,0 +1,6 @@
+{
+  "name": "ملک‌یاب - سامانه هوشمند خرید و اجاره املاک",
+  "description": "پلتفرم جامع خرید، رهن و اجاره املاک با جستجوی پیشرفته روی نقشه، رزرو آنلاین بازدید، چت زنده، احراز هویت پیامکی و پنل اختصاصی مشاورین",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
